@@ -9,7 +9,7 @@ function contarLetras (array, letra) {
             suma++;                              // guarda el valor adquirido en cada vuelta 
         }
     }
-    return suma; // llamamiento a la función 
+    return suma; // llamamiento a la función ---> no, aún no; esto es devolver la suma 
 }
 
 // Diseña un algoritmo que imprima los números impares entre un número dado por el usuario 
